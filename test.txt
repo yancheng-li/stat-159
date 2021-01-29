@@ -1,0 +1,4 @@
+              total        used        free      shared  buff/cache   available
+Mem:       53481644    17806524     3671284       74392    32003836    35233464
+Swap:             0           0           0
+/home/jovyan/stat-159
